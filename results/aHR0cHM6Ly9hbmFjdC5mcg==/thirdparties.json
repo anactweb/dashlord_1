@@ -1,0 +1,897 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/css/font-block-gothic.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/css/css_CH_246PjM2LonGObzUnbc5p76e_kylZvqCaVMMql8-o.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/css/css_addWxGBDbLm9OG-w7wSojadm1G0t4yLOQy_MgTE5RTY.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/css/css_CXbq4kOORt67lT3WcfoN388ijfyXGNVwvvrUUEd8Tp0.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/css/css_79i68o2xrBWhhv9NSMqEwgWv9Oc51S3zSVUxBXnchO0.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/js/js_XexEZhbTmj1BHeajKr2rPfyR8Y68f4rm0Nv3Vj5_dSI.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/js/js_kt92lSRAfe4wodNmFYcp0ngjWdAxSHz4An1nhUYwAi4.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/js/js_gHk2gWJ_Qw_jU2qRiUmSl7d8oly1Cx7lQFrqcp3RXcI.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/js/js_sJ6zLT7fda8EUrgHlPrXVJ7gQYNQj9j3sZPOrG1EXIs.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/js/js_QuKVK55d33SOna1N2OtXXXWvADAeoXP7rY6VchOUwpI.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/logo-republique-fr.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/anact-logo.svg"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,600,700,800|Open+Sans+Condensed:700",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Ubuntu:regular&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css2?family=Oswald&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/95x140/public/visuel_couv.png?itok=ohZQEbNd"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/95x140/public/images/visuel/visuels_produits-8.png?itok=Z15_FI_W"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/bloc_autopromo_208x315/public/fotolia_77006115_m.png?itok=CfxLGQ3i"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/780x320/public/images/diapo_slide/transitions_societales_travail.jpeg?itok=3Z3F0x-P"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/780x320/public/images/diapo_slide/consultation_anact_transition_sqvt.png?itok=5iS3LYBf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/780x320/public/images/diapo_slide/capture_decran_2023-02-16_a_15.48.39.png?itok=tY7_AwTz"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/bloc_335x165/public/montage_visuel_sqvct_2023_article_web.png?itok=r77NHhWu"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/images/visuel/visuels_produits-8.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/images/visuel/visuels_produits-2_0.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/images/visuel/visuel_kit_entreprise.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/380x330/public/sans_titre_0.png?itok=sPH_vOFl"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/carte.jpeg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/300x400/public/visuel_cas_dentreprise.png?itok=qu-K7DIy"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/300x400/public/fotolia_77006115_m.png?itok=kzHqVuNN"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/files/styles/vignette_video_516x292/public/images/vignette/capture_decran_2022-11-03_a_16.21.20.png?itok=yP_fPUX-"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/separator.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/modules/contrib/tb_megamenu/img/glyphicons-halflings.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/facebook.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/twitter.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/linkedin.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/youtube.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/webikeo.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/reseaux-sociaux/rss.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Aller/aller-regular.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Aller/aller-regular.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/sprites/sprite-global.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/eye-regular.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/newsletter.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/big-arrow-top.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/visuels/priorite.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/hyphen.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/big-arrow-top-violet.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/images/play-white.png"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v35/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Colaborate/colaborate-regular.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Aller/aller-bold.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Ubuntu/Ubuntu-Regular.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Oswald/Oswald-SemiBold.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Ubuntu/Ubuntu-Bold.ttf"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v35/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Colaborate/colaborate-regular.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Aller/aller-bold.woff?98333103"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Ubuntu/Ubuntu-Regular.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Oswald/Oswald-SemiBold.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Ubuntu/Ubuntu-Bold.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/libraries/tarteaucitron/css/tarteaucitron.css?v=20181120"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/libraries/tarteaucitron/lang/tarteaucitron.fr.js?v=20181120"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/libraries/tarteaucitron/tarteaucitron.services.js"
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://matomo.ebizproduction.com/piwik.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Oswald/Oswald-Bold.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.anact.fr/sites/anact/themes/custom/anact/fonts/Oswald/Oswald-Bold.ttf"
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1841315162&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anact.fr%2F&ul=en-us&de=UTF-8&dt=Agence%20nationale%20pour%20l%27am%C3%A9lioration%20des%20conditions%20de%20travail%20(Anact)&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=KEBAAAABEAAAACAAg~&jid=933503418&gjid=540457204&cid=1300091754.1688492185&tid=UA-6559532-5&_gid=231302222.1688492185&_r=1&_slc=1&z=1420618879",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-6559532-5&cid=1300091754.1688492185&jid=933503418&gjid=540457204&_gid=231302222.1688492185&_u=KEBAAAAAEAAAACAAg~&z=1228259261",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j101&tid=UA-6559532-5&cid=1300091754.1688492185&jid=933503418&_u=KEBAAAAAEAAAACAAg~&z=884504251",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://matomo.ebizproduction.com/piwik.php?action_name=Agence%20nationale%20pour%20l%27am%C3%A9lioration%20des%20conditions%20de%20travail%20(Anact)&idsite=112&rec=1&r=470995&h=17&m=36&s=25&url=https%3A%2F%2Fwww.anact.fr%2F&_id=357d65c78b00ac2f&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=Mq19C1&pf_net=665&pf_srv=151&pf_tfr=5&pf_dm1=1011&pf_dm2=1038&pf_onl=4&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D"
+    },
+    {
+      "type": "unknown",
+      "url": "https://matomo.ebizproduction.com/plugins/HeatmapSessionRecording/configs.php?idsite=112&trackerid=NJpIzF&url=https%3A%2F%2Fwww.anact.fr%2F"
+    }
+  ],
+  "cookies": [],
+  "headers": {
+    "cache-control": "public, max-age=10800",
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "fr",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Tue, 04 Jul 2023 17:36:22 GMT",
+    "etag": "\"1688487066-1\"",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "keep-alive": "timeout=5, max=100",
+    "last-modified": "Tue, 04 Jul 2023 16:11:06 GMT",
+    "link": "<https://www.anact.fr/>; rel=\"canonical\",<https://www.anact.fr/>; rel=\"shortlink\"",
+    "server": "Apache",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-commerce-core": "1",
+    "x-content-type-options": "nosniff",
+    "x-drupal-cache": "HIT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (https://www.drupal.org)",
+    "x-powered-by": "PHP/5.4.16",
+    "x-ua-compatible": "IE=edge"
+  },
+  "endpoints": [
+    {
+      "hostname": "anact.fr",
+      "ip": "178.23.159.82",
+      "geoip": {
+        "city": {
+          "geoname_id": 2973317,
+          "names": {
+            "en": "Tassin-la-Demi-Lune",
+            "fr": "Tassin-la-Demi-Lune",
+            "pt-BR": "Tassin-la-Demi-Lune"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 45.7556,
+          "longitude": 4.7838,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "69160"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 11071625,
+            "iso_code": "ARA",
+            "names": {
+              "en": "Auvergne-Rhone-Alpes",
+              "fr": "Auvergne-Rhône-Alpes"
+            }
+          },
+          {
+            "geoname_id": 2987410,
+            "iso_code": "69",
+            "names": {
+              "de": "Rhône",
+              "en": "Rhône",
+              "es": "Ródano",
+              "fr": "Rhône",
+              "pt-BR": "Ródano"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "www.anact.fr",
+      "ip": "178.23.159.82",
+      "geoip": {
+        "city": {
+          "geoname_id": 2973317,
+          "names": {
+            "en": "Tassin-la-Demi-Lune",
+            "fr": "Tassin-la-Demi-Lune",
+            "pt-BR": "Tassin-la-Demi-Lune"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 45.7556,
+          "longitude": 4.7838,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "69160"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 11071625,
+            "iso_code": "ARA",
+            "names": {
+              "en": "Auvergne-Rhone-Alpes",
+              "fr": "Auvergne-Rhône-Alpes"
+            }
+          },
+          {
+            "geoname_id": 2987410,
+            "iso_code": "69",
+            "names": {
+              "de": "Rhône",
+              "en": "Rhône",
+              "es": "Ródano",
+              "fr": "Rhône",
+              "pt-BR": "Ródano"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.250.115.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "142.250.114.94",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google-analytics.com",
+      "ip": "142.250.113.101",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "matomo.ebizproduction.com",
+      "ip": "31.170.11.143",
+      "geoip": {
+        "city": {
+          "geoname_id": 3035547,
+          "names": {
+            "en": "Azay-sur-Cher",
+            "fr": "Azay-sur-Cher",
+            "pt-BR": "Azay-sur-Cher"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 200,
+          "latitude": 47.3525,
+          "longitude": 0.8484,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "37270"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3027939,
+            "iso_code": "CVL",
+            "names": {
+              "de": "Centre-Val de Loire",
+              "en": "Centre-Val de Loire",
+              "es": "Centro-Valle de Loira",
+              "fr": "Centre-Val de Loire"
+            }
+          },
+          {
+            "geoname_id": 3012804,
+            "iso_code": "37",
+            "names": {
+              "de": "Indre-et-Loire",
+              "en": "Indre-et-Loire",
+              "es": "Indre y Loira",
+              "fr": "Indre-et-Loire"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "stats.g.doubleclick.net",
+      "ip": "142.250.138.155",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google.com",
+      "ip": "142.250.115.147",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
