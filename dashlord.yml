@@ -1,4 +1,4 @@
-title: DashLord example
+title: DashLord Anact
 description: Bonnes pratiques techniques
 entity: Ministères sociaux
 footer: Powered by SocialGouv
@@ -26,4 +26,4 @@ urls:
       - socialgouv/www
     docker:
       - ghcr.io/socialgouv/fabrique/frontend
-  - url: https://beta.gouv.fr
+  - url: https://anact.fr
